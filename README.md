@@ -1,4 +1,4 @@
-# website
+# html_lab1
 ```html
 <!DOCTYPE html>
 <html lang="en">
